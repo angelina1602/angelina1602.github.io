@@ -1,0 +1,401 @@
+a
+{
+text-decoration: none;
+padding-left:10px;
+color:black;
+}
+
+body{
+background-color:#000013;
+
+}
+
+
+nav{
+max-width:1186px;
+background-color:#acacac;
+border-radius:50px;
+opacity: 0.6;
+}
+
+
+ul{
+  display: inline-block; 
+
+}
+li
+{
+    display: inline-block;
+    text-decoration:none;
+}
+
+a:nth-child(1):hover {
+  color:#e74c3c;
+}
+
+a:nth-child(2):hover {
+  color:#BF55EC;
+}
+
+a:nth-child(3):hover {
+  color:#f39c12;
+}
+
+
+header{
+/*background-image:url(../img/bg2.jpg);*/
+background-repeat:no-repeat;
+max-width:1200px;
+height:300px;
+ margin:0 auto;
+}
+
+.shashlychnaya{
+text-align:center;
+display:inline-block;
+padding-left:5%;
+}
+
+.phonenumber{
+display:inline-block;
+padding-right:4%;
+padding-left:10%;
+font-size:20px;
+}
+
+
+
+
+main{
+max-width:1200px;
+background-color:#000013;
+margin:0 auto;
+text-align: center;
+
+}
+
+
+
+iframe{
+width:1000px; 
+height:800px;
+}
+
+
+
+footer{
+max-width:1200px;
+min-height:450px;
+text-align:center;
+background-color:black;
+margin:auto;
+margin-top:40px;
+}
+
+.footerinfo{
+    display:inline-block;
+  text-align:left;
+    height:250px;
+    float:left;
+    padding:10px;
+}
+
+
+@media(max-width:1022){
+main{
+        max-width:880px;
+    }
+}
+
+
+@media(max-width:992){
+main{
+        max-width:780px;
+    }
+}
+
+@media(max-width:892px){
+    main{
+        max-width:680px;
+
+    }
+
+}
+
+@media(max-width:792px){
+    main{
+        max-width:580px;
+
+    }
+
+}
+@media(max-width:692px){
+    main{
+        max-width:480px;
+
+    }
+
+}
+@media(max-width:592px){
+    main{
+        max-width:380px;
+
+    }
+
+}
+
+@media(max-width:492px){
+      main{
+        max-width:280px;
+    }
+
+}
+
+@media(max-width:392px){
+      main{
+        max-width:180px;
+    }
+
+}
+
+
+
+///////////////////////////////
+
+@media(max-width:400px){
+      .footerinfo{
+        max-width:100px;
+    }
+
+}
+
+
+/*@media(max-height:992){
+iframe{
+        max-height:950px;
+        max-height:750px;
+    }
+}
+
+@media(max-height:768px){
+    iframe{
+       max-height:730px;
+          max-height:650px;
+
+    }
+
+}
+
+
+
+@media(max-width:400px){
+      iframe{
+      
+          max-width:450px;
+          max-height:550px;
+    }
+
+}
+
+@media(max-width:375px){
+      iframe{
+        max-width:350px;
+          max-height:450px;
+    }
+
+}
+*/
+
+
+
+
+ @media(max-width:992){
+header{
+        max-width:990px;
+        margin:0 auto;
+    }
+}
+
+ @media(max-width:882){
+header{
+        max-width:880px;
+        margin:0 auto;
+    }
+}
+
+
+@media(max-width:782px){
+    header{
+        max-width:780px;
+
+    }
+
+}
+
+
+
+@media(max-width:682px){
+      header{
+        max-width:680x;
+    }
+
+}
+
+@media(max-width:582px){
+    header{
+        max-width:580px;
+    }
+
+}
+
+@media(max-width:482px){
+    header{
+        max-width:480px;
+    }
+
+}
+
+
+
+ @media(max-width:992){
+nav{
+        max-width:990px;
+        margin:0 auto;
+    }
+}
+
+ @media(max-width:882){
+nav{
+        max-width:880px;
+        margin:0 auto;
+    }
+}
+
+
+@media(max-width:782px){
+    nav{
+        max-width:780px;
+
+    }
+
+}
+
+
+
+@media(max-width:682px){
+     nav{
+        max-width:680x;
+    }
+
+}
+
+@media(max-width:582px){
+    nav{
+        max-width:580px;
+    }
+
+}
+
+@media(max-width:482px){
+    nav{
+        max-width:480px;
+    }
+
+}
+
+
+
+@media(max-width:992){
+body{
+        max-width:970px;
+    }
+}
+
+@media(max-width:768px){
+    body{
+        max-width:750px;
+
+    }
+
+}
+
+
+
+@media(max-width:400px){
+      body{
+        max-width:395px;
+    }
+
+}
+
+@media(max-width:375px){
+      body{
+        max-width:350px;
+    }
+
+}
+
+
+
+@media(max-width:1022){
+iframe{
+        max-width:880px;
+    }
+}
+
+
+@media(max-width:992){
+iframe{
+        max-width:780px;
+         max-height:750px;
+    }
+}
+
+@media(max-width:892px){
+   iframe{
+        max-width:680px;
+
+    }
+
+}
+
+@media(max-width:792px){
+    iframe{
+        max-width:580px;
+         max-height:650px;
+
+    }
+
+}
+@media(max-width:692px){
+   iframe{
+        max-width:500px;
+
+    }
+
+}
+@media(max-width:592px){
+  iframe{
+        max-width:400px;
+         max-height:550px;
+
+    }
+
+}
+
+@media(max-width:492px){
+      iframe{
+        max-width:340px;
+        max-height:450px;
+    }
+
+}
+
+@media(max-width:392px){
+      iframe{
+
+        max-width:260px;
+          max-height:350px;
+    }
+
+}
